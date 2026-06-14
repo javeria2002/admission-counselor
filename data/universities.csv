@@ -1,21 +1,21 @@
-name,city,province,programs,min_merit,max_merit,fee_per_year,hostel,hec_rank,website
-FAST NUCES,Karachi,Sindh,"CS, AI, SE, DS",75,95,180000,Yes,1,nu.edu.pk
-FAST NUCES,Lahore,Punjab,"CS, AI, SE",78,96,185000,Yes,1,nu.edu.pk
-NED University,Karachi,Sindh,"Engineering, CS, Architecture",70,92,45000,Yes,4,neduet.edu.pk
-UET Lahore,Lahore,Punjab,"Engineering, CS",75,94,60000,Yes,3,uet.edu.pk
-NUST,Islamabad,Federal,"Engineering, CS, AI, Business",80,98,200000,Yes,2,nust.edu.pk
-LUMS,Lahore,Punjab,"Business, CS, Law, Economics",78,97,650000,Yes,5,lums.edu.pk
-IBA Karachi,Karachi,Sindh,"Business, CS, Economics",72,93,250000,Yes,6,iba.edu.pk
-COMSATS,Islamabad,Federal,"CS, Engineering, Biology",65,88,120000,Yes,8,comsats.edu.pk
-UCP Lahore,Lahore,Punjab,"CS, Business, Engineering",60,85,150000,Yes,12,ucp.edu.pk
-Bahria University,Karachi,Sindh,"CS, Engineering, Business",62,86,140000,Yes,10,bahria.edu.pk
-Quaid-i-Azam University,Islamabad,Federal,"Social Sciences, Chemistry, Physics, Biology",65,88,25000,Yes,7,qau.edu.pk
-University of Karachi,Karachi,Sindh,"Arts, Science, Commerce, Law, Pharmacy",55,82,15000,Yes,9,uok.edu.pk
-Punjab University,Lahore,Punjab,"Arts, Science, Law, Engineering, IT",55,85,20000,Yes,11,pu.edu.pk
-SZABIST,Karachi,Sindh,"CS, Business, Media Sciences, Engineering",65,88,180000,Yes,13,szabist.edu.pk
-Aga Khan University,Karachi,Sindh,"Medicine, Nursing, Education",85,98,500000,Yes,6,aku.edu.pk
-Air University,Islamabad,Federal,"CS, Engineering, Business, Aviation",65,88,120000,Yes,14,au.edu.pk
-GIK Institute,Topi,KPK,"Engineering, CS",75,94,200000,Yes,15,giki.edu.pk
-Lahore University,Lahore,Punjab,"CS, Business, Law, Economics",60,85,150000,Yes,16,lu.edu.pk
-Mehran University,Jamshoro,Sindh,"Engineering, CS, Architecture",65,88,30000,Yes,17,muet.edu.pk
-Sir Syed University,Karachi,Sindh,"Engineering, CS, Business",60,85,120000,Yes,18,ssuet.edu.pk
+name,city,province,programs,min_merit,max_merit,fee_per_year,hostel,hec_rank,website,deadline
+FAST NUCES,Karachi,Sindh,"CS, AI, SE, DS",75,95,180000,Yes,1,nu.edu.pk,2026-08-15
+FAST NUCES,Lahore,Punjab,"CS, AI, SE",78,96,185000,Yes,1,nu.edu.pk,2026-08-20
+NED University,Karachi,Sindh,"Engineering, CS, Architecture",70,92,45000,Yes,4,neduet.edu.pk,2026-07-30
+UET Lahore,Lahore,Punjab,"Engineering, CS",75,94,60000,Yes,3,uet.edu.pk,2026-08-10
+NUST,Islamabad,Federal,"Engineering, CS, AI, Business",80,98,200000,Yes,2,nust.edu.pk,2026-07-25
+LUMS,Lahore,Punjab,"Business, CS, Law, Economics",78,97,650000,Yes,5,lums.edu.pk,2026-08-01
+IBA Karachi,Karachi,Sindh,"Business, CS, Economics",72,93,250000,Yes,6,iba.edu.pk,2026-07-20
+COMSATS,Islamabad,Federal,"CS, Engineering, Biology",65,88,120000,Yes,8,comsats.edu.pk,2026-08-25
+UCP Lahore,Lahore,Punjab,"CS, Business, Engineering",60,85,150000,Yes,12,ucp.edu.pk,2026-09-01
+Bahria University,Karachi,Sindh,"CS, Engineering, Business",62,86,140000,Yes,10,bahria.edu.pk,2026-08-30
+Quaid-i-Azam University,Islamabad,Federal,"Social Sciences, Chemistry, Physics, Biology",65,88,25000,Yes,7,qau.edu.pk,2026-08-05
+University of Karachi,Karachi,Sindh,"Arts, Science, Commerce, Law, Pharmacy",55,82,15000,Yes,9,uok.edu.pk,2026-09-10
+Punjab University,Lahore,Punjab,"Arts, Science, Law, Engineering, IT",55,85,20000,Yes,11,pu.edu.pk,2026-09-05
+SZABIST,Karachi,Sindh,"CS, Business, Media Sciences, Engineering",65,88,180000,Yes,13,szabist.edu.pk,2026-08-18
+Aga Khan University,Karachi,Sindh,"Medicine, Nursing, Education",85,98,500000,Yes,6,aku.edu.pk,2026-07-15
+Air University,Islamabad,Federal,"CS, Engineering, Business, Aviation",65,88,120000,Yes,14,au.edu.pk,2026-08-22
+GIK Institute,Topi,KPK,"Engineering, CS",75,94,200000,Yes,15,giki.edu.pk,2026-08-12
+Lahore University,Lahore,Punjab,"CS, Business, Law, Economics",60,85,150000,Yes,16,lu.edu.pk,2026-09-15
+Mehran University,Jamshoro,Sindh,"Engineering, CS, Architecture",65,88,30000,Yes,17,muet.edu.pk,2026-09-20
+Sir Syed University,Karachi,Sindh,"Engineering, CS, Business",60,85,120000,Yes,18,ssuet.edu.pk,2026-09-08
